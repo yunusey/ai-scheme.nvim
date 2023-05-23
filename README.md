@@ -46,7 +46,12 @@ There are two ways to use `:PromptScheme [prompt]`:
 
 ## With the API
 
-https://github.com/yunusey/ai-scheme.nvim/assets/107340417/483b2832-ebd0-4c08-a0f5-50b3d7dee43a
+
+
+https://github.com/yunusey/ai-scheme.nvim/assets/107340417/60661630-772f-46c4-aa48-950f821b74c2
+
+
+
 
 When you're using the OpenAI API, the plugin will automatically use the API to generate the response which automatically highlights the highlight-groups.
 
@@ -55,7 +60,9 @@ When you're using the OpenAI API, the plugin will automatically use the API to g
 ## Without the API
 
 
-https://github.com/yunusey/ai-scheme.nvim/assets/107340417/8fe2c923-3411-4937-a97a-e8b7acddcb83
+
+https://github.com/yunusey/ai-scheme.nvim/assets/107340417/be0c2f6a-0fdf-445d-a45e-473482b2b8f8
+
 
 
 ### With the system clipboard
