@@ -1,6 +1,6 @@
 # ai-scheme.nvim
 
-Use AI's power to creat your own neovim color scheme!
+Use AI's power to create your own neovim color scheme!
 
 ## Requirements
 - `pynvim` & `neovim` (`pip install pynvim neovim`)
@@ -68,6 +68,4 @@ The process is almost the same as with the system clipboard. The only difference
 - [pynvim](https://github.com/neovim/pynvim)
 - [Openai Python](https://github.com/openai/openai-python)
 
-
-## Thanks
-Thank you for visiting my plugin. If you liked the project and want to support, please consider giving a star, so that you can help us to reach out to more people. Thanks again!
+If you liked the project, and want to support, please consider giving a star to the project.
